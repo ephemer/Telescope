@@ -88,6 +88,9 @@ observe-sequence@1.0.6
 ordered-dict@1.0.3
 package-version-parser@3.0.3
 percolatestudio:synced-cron@1.1.0
+practicalmeteor:chai@1.9.2_3
+practicalmeteor:loglevel@1.2.0_1
+practicalmeteor:wkwebview@0.1.2
 raix:eventemitter@0.1.2
 random@1.0.3
 reactive-dict@1.1.0
